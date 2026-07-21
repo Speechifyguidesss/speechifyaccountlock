@@ -6,13 +6,13 @@ text-to-speech features for studying, work, or accessibility. Account locks
 can happen for several reasons, including multiple failed login attempts,
 security concerns, payment issues, or violations of the platform's terms of
 service.
-|
+
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://getchatsupport.live/
    :alt: Support Now Button
-|
+
 This guide explains the common reasons why a Speechify account may be locked,
 how to recover access, and what steps you can take to prevent the issue from
 happening again.
